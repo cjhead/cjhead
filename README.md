@@ -4,7 +4,14 @@
 - 📫 How to reach me: chead@linuxmail.org
 <br/>
 
+![Metrics](/github-metrics.svg)
+
+
 ![cjhead's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjhead&show_icons=true&theme=nord)
-<br/>
-<br/>
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjhead&layout=compact&theme=nord)
+
+<br/>
+
+![Achievements](/metrics.plugin.achievements.compact.svg)
